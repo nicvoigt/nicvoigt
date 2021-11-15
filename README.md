@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicvoigt
 - 👀 I’m interested in triathlon, basketball, computer science, languages, travelling, salsa and reading
-- 🌱 I’m currently learning how to present valuable information on dashboards. And eager to optimize my coding structure skills.
+- 🌱 I’m currently learning how to present valuable information on dashboards. And I want to optimize my coding structure skills.
 - 📫 The best way to reach me is via twitter @NicoVoigt5
 
 <!---
